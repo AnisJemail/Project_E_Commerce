@@ -1,0 +1,24 @@
+[
+    {
+      "name": "The Courage to Be Free",
+      "price": 15.99,
+      "description": "No American leader has accomplished more for his state than Governor Ron DeSantis. Now he reveals how he did it.",
+      "category": "politics",
+      "image": "https://m.media-amazon.com/images/I/41Pw77onK7L._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "name": "Atomic Habits",
+      "price": 20,
+      "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "category": "self development",
+      "image": "https://m.media-amazon.com/images/I/51B7kuFwQFL._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "name": "the wisdom of insecurity",
+      "price": 21,
+      "description": "A Message for an Age of Anxiety",
+      "category": "philosophy",
+      "image": "https://m.media-amazon.com/images/I/41z-7eowiNL._SX322_BO1,204,203,200_.jpg"
+    }
+  ]
+  
